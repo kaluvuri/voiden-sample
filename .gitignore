@@ -1,3 +1,5 @@
 .env
 env-private.yaml
 .voiden
+voiden-publish
+.DS_Store
