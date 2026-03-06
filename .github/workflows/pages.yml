@@ -28,7 +28,7 @@ jobs:
         run: npm install -g @voiden/cast
 
       - name: Build docs
-        run: voiden-cast build .
+        run: voiden-cast build . --base /voiden-sample
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
