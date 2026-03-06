@@ -3,3 +3,4 @@ env-private.yaml
 .voiden
 voiden-publish
 .DS_Store
+.voiden/.process.env.json
